@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @johncummins
-- 👀 I’m interested in web development, mobile app development and UX/UI Design
-- 🌱 I’m currently learning Ionic and Angular
-- 💞️ I’m looking to collaborate on any interesting mobile app or web projects
-- 📫 How to reach me - johncummins1997@gmail.com
+# Hello, I'm John
+
+### Frontend Developer • Cambridge, UK
+
+With **4 years’ experience** in a fast-paced startup, I specialise in building **scalable, high-quality applications** using:  
+- React & Next.js  
+- JavaScript (ES6+)  
+- Modern tools: TanStack Query, Zustand, Tailwind CSS
+
+I’m passionate about creating intuitive, performant user interfaces and exploring new frontend technologies.
 
 <!---
 johncummins/johncummins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
