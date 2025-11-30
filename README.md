@@ -1,9 +1,10 @@
 # Hello, I'm John
 
-### Frontend Developer • Cambridge, UK
+### Frontend & Mobile Engineer • Cambridge, UK
 
 With **4 years’ experience** in a fast-paced startup, I specialise in building **scalable, high-quality applications** using:  
-- React & Next.js  
+- React & Next.js
+- React Native
 - JavaScript (ES6+)  
 - Modern tools: TanStack Query, Zustand, Tailwind CSS
 
