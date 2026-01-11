@@ -1,16 +1,14 @@
-# Hello, I'm John
+# Hello, I’m John
 
-### Frontend & Mobile Engineer • Cambridge, UK
+### Lead Frontend Engineer • Cambridge, UK
 
-With **4 years’ experience** in a fast-paced startup, I specialise in building **scalable, high-quality applications** using:  
-- React & Next.js
-- React Native
-- JavaScript (ES6+)  
-- Modern tools: TanStack Query, Zustand, Tailwind CSS
+Lead Frontend Engineer with over 4 years’ experience building and owning production web and mobile applications in a fast-paced startup environment.
 
-I’m passionate about creating intuitive, performant user interfaces and exploring new frontend technologies.
+I focus on designing scalable, maintainable frontend systems and delivering clear, intuitive user experiences across web and mobile platforms.
 
-<!---
-johncummins/johncummins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Core technologies:**
+- React & Next.js  
+- React Native  
+- TypeScript & JavaScript  
+
+I enjoy working on real-world problems, shipping production-ready applications, and continuously improving frontend architecture and UX.
